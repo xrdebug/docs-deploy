@@ -1,5 +1,5 @@
 {
-    "name": "DocsDeploy",
+    "name": "docs-deploy",
     "version": "0.0.1",
     "description": "Chevere VuePress Deploy Template",
     "main": "index.js",
